@@ -4,7 +4,7 @@
 
 #### Contact
 [Twitter](https://twitter.com/eliezerantonio_)<br>
-[Email](eliezerfernandoantonio@gmail.com)<br>
+[Email](eliezerfernandoantonio@gmail.com)
 
 #### I work with <br>
 <p align="left">
