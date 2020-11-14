@@ -4,8 +4,8 @@
 
 #### Contact
 [Twitter](https://twitter.com/eliezerantonio_)<br>
-[Email](eliezerfernandoantonio@gmail.com)
-
+[Email](eliezerfernandoantonio@gmail.com)<br>
+#### I work with <br>
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="flutter" width="40" height="40"/> 
