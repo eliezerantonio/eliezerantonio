@@ -18,7 +18,7 @@
    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/>
  
  
-  <img src="https://profile-counter.glitch.me/eliezerantonio/count.svg" />
+
 
  
 
