@@ -17,4 +17,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/>
  
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/eliezerantonio/count.svg" />
+</p>
+ 
 
