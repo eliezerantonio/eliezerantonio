@@ -5,9 +5,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
 <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerantonio&layout=compact&theme=gotham" alt="Eliezer" />
 </p> 
-### Contact
-[Twitter](https://twitter.com/eliezerantonio_)<br>
-[Email](eliezerfernandoantonio@gmail.com)<br>
+
 #### I work with  <br>
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
