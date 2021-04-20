@@ -6,7 +6,6 @@
 <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerantonio&layout=compact&theme=gotham" alt="Eliezer" />
 </p> 
 
-#### I work with  <br>
 <p align="center">
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="flutter" width="40" height="40"/> 
