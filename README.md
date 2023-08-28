@@ -28,6 +28,9 @@
 
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="60" height="40"/>
 
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" height="40"/>
+
+
 
 
  </p>
