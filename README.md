@@ -1,18 +1,30 @@
-<p align="center">
+## About Me
+<br/>
 
 
+Mobile developer with extensive experience in the development of native and multi-platform mobile applications and Android. 
 
-</p> 
+With solid knowledge in technologies such as
+Mobile:
+- Native android apps with java and kotlin. 
+- Multiplatform apps with flutter ♥️. 
+- Firebase auth, messaging, realtime databases, storage, crashlythics. 
 
-<p align="center">
- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+## Flutter Skills
+- Advance level in dart and flutter.
+- State management with Provider, BLoC, Riverpod.
+- Building high quality code with clean architecture.
+- Unit, widget and integration testing.
+- TDD
+- CI && CD
 
+backend skills: 
 
+nestjs, adonisjs.
 
- </p>
- 
+I think graphic design and user experience are as important as programming. I'm always looking to experiment with new technologies for modern software development.
 
+---
+Currently I am working with flutter for the creation of multiplatform mobile applications
 
- 
 
