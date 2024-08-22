@@ -1,6 +1,5 @@
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=eliezerantonio&theme=gotham" alt="Eliezer" />
+
 
 
 </p> 
