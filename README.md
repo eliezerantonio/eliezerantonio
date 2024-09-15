@@ -25,6 +25,6 @@ nestjs, adonisjs.
 I think graphic design and user experience are as important as programming. I'm always looking to experiment with new technologies for modern software development.
 
 ---
-Currently I am working with flutter for the creation of multiplatform mobile applications
+Currently I am working with flutter for the creation of multiplatform mobile applications and Kotlin for Native Android applications 
 
 
