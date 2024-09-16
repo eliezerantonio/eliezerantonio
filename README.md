@@ -8,7 +8,7 @@ With solid knowledge in technologies such as
 Mobile:
 - Native android apps with java and kotlin. 
 - Multiplatform apps with flutter ♥️. 
-- Firebase auth, messaging, realtime databases, storage, crashlythics. 
+- Firebase auth, messaging, realtime databases, storage, crashlythics etc... 
 
 ## Flutter Skills
 - Advance level in dart and flutter.
