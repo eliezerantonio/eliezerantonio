@@ -7,7 +7,7 @@ Mobile developer with extensive experience in the development of native and mult
 With solid knowledge in technologies such as
 Mobile:
 - Native android apps with java and kotlin. 
-- Multiplatform apps with flutter ♥️. 
+- Multiplatform apps with flutter . 
 - Firebase auth, messaging, realtime databases, storage, crashlythics etc... 
 
 ## Flutter Skills
